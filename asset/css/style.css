@@ -1,0 +1,11 @@
+/* clock CSS */
+
+.clock_section .date_time {
+    display: block;
+    border: #000 solid 2px;
+    background-color: #940707;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+}
