@@ -51,6 +51,6 @@ setInterval(showDateTime, 1000);
 
 
 // Submit Button JS
-function confirmSubmission() {
-    return confirm("Are you sure you want to submit?");
+function popup() {
+    alert("Success");
 }
